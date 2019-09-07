@@ -1,3 +1,4 @@
 # biggest-data
-clase de dias sabados
-hasjkdhkasdjkasc
+Proyecto big data
+New Ballance V/S Reebok
+objetivos
