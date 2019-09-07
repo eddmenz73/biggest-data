@@ -3,7 +3,7 @@
 
 *_New Ballance V/S Reebok_*
 
-
+FORK ===> buscar
 
 _objetivos:_ 
 
@@ -13,3 +13,11 @@ _objetivos:_
 
 3.- Identificar a qué tipo de consumidor esta dirigida su publicidad.
 
+
+
+Proximo sabado enviar repositorio con proyecto; descripción; objetivos; que se espera del proyecto
+
+R           } ===>          Lenguaje de programación
+Python  }
+C           }
+C++      }
